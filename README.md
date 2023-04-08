@@ -22,8 +22,16 @@
 	<center><ul></center>
         <center><li style="color:blue">Practical part A</li></center><center></ul>
 	</center>
-	
-       
+	<br>
+	<center>
+        <table border="5" cellspacing="3" style="background-color:gray;color:blue;border-color:blue">
+        <tr><th width="350"height="30">Question Number</th><th width="200">Module</th><th width="100">Duration</th></tr>
+        <tr><td height="30">Ques.1</td><td>Operating system</td><td>30 minutes</td></tr>
+	<tr><td height="30">Ques.2</td><td>Word processing</td><td>30 minutes</td></tr>
+	<tr><td height="30">Ques.3</td><td>Spreadsheets</td><td>30 minutes</td></tr>
+	<tr><td height="30">Ques.4</td><td>Presentation</td><td>30 minutes</td></tr>
+        </table>
+	</center>
 	
 	
 	</body>
