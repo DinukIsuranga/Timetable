@@ -32,8 +32,12 @@
 	<tr><td height="30">Ques.4</td><td>Presentation</td><td>30 minutes</td></tr>
         </table>
 	</center>
-	
-	
+	<center>
+	<ul><li style="color:blue">Practical part B</li></ul>
+	</center>
+	<center>
+	<a href="www.W3school.com">Registration</a>
+	</center>
 	</body>
   </main>
 </html>
