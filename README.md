@@ -38,6 +38,7 @@
 	<center>
 	<a href="www.W3school.com">Registration</a>
 	</center>
+	<img src="HTML/man.jpg"width="200">    
 	</body>
   </main>
 </html>
