@@ -20,8 +20,8 @@
 	</center>
 	<br>
 	
-	 <center><ul></center>
-	  <center><li style="color:blue">Practical part A</li></center><center></ul>
+        <center><ul></center>
+        <center><li style="color:blue">Practical part A</li></center><center></ul>
 	</center>
 	<br>
 	<center>
